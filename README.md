@@ -1,10 +1,7 @@
 # Neural-networks
 Models of neural networks, mainly neurons models applied to biology
-```
 ## Built With
-
-* [Pygame](https://www.pygame.org) - Game library
-* [Python](https://www.python.org/downloads/) - Porgramming language
+* [Fortran](https://www.python.org/downloads/) - Programming language
 
 ## Authors
 
